@@ -1,5 +1,7 @@
 # Student-Performance-Heart-Disease-Data-Visualization
 A data visualization project that analyzes student academic performance and heart disease risk factors using statistical plots, distributions, correlations, and comparative charts to uncover meaningful insights.
+
+
 📌 Project Description
 
 This project focuses on exploratory data analysis and statistical visualization using two real-world datasets:
@@ -9,6 +11,7 @@ Student Performance Dataset – GPA, study time, absences, and grade class
 Heart Attack South Africa Dataset – medical risk factors and heart attack outcomes
 
 The goal is to transform raw data into clear, meaningful visual insights using professional plotting techniques. The notebook demonstrates data cleaning, aggregation, distribution analysis, correlation analysis, and categorical comparisons through multiple visualization types.
+
 
 🎯 Objectives
 
@@ -38,6 +41,7 @@ Seaborn – advanced statistical visualizations
 
 Google Colab – notebook execution environment
 
+
 📂 Project Structure
 week5-visualization-project/
 │
@@ -54,7 +58,7 @@ week5-visualization-project/
 └── README.md
 
 📊 Visualizations Implemented
-🔵 Assignment 2 – Student Dataset
+🔵 work 2 – Student Dataset
 1. Bar Chart – Average GPA by Grade Class
 
 Grouped GPA by grade class
@@ -85,7 +89,7 @@ Compares study effort between grade levels
 
 Highlights variability in study behavior
 
-🔴 Assignment 3 – Heart Disease Dataset
+🔴 work 3 – Heart Disease Dataset
 4. KDE Plot – Age vs Heart Attack Outcome
 
 Density curves by outcome group
